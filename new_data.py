@@ -91,4 +91,4 @@ def read():
 
 
 if __name__ == "__main__":
-    new_data.run(debug=True)
+    new_data.run(host='0.0.0.0')
