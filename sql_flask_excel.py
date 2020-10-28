@@ -46,4 +46,4 @@ def fn_11(data):
 
 
 if __name__ == '__main__':
-    sql_flask_excel.run(debug=True)
+    sql_flask_excel.run(host='0.0.0.0')
